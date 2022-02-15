@@ -26,6 +26,22 @@
 			{"lat": 62.975, "lng": -125.072},
 			{"lat": 63.155, "lng": -124.116}
 		]
+	},
+	{
+		"id": 2,
+		"type": "Territory Areas",
+		"title": "The Lost MC | Los Santos",
+		"notes": "A relentless Motorcycle Club",
+		"wiki_link": "https://streamable.com/5x0lvi",
+		"order": 2,
+		"strokecolor": "313131",
+		"fillcolor": "313131",
+		"latlngarray":[
+			{"lat": 69.405, "lng": -115.077},
+			{"lat": 69.253, "lng": -114.703},
+			{"lat": 69.242, "lng": -115.527},
+			{"lat": 69.136, "lng": -115.022}
+		]
 	}
 	
 ]
