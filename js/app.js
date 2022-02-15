@@ -148,30 +148,6 @@ $(function() {
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
-		},
-		{
-			name: 'Neutral Zones',
-			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true
-		},
-		{
-			name: 'Restaurants',
-			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true
-		},
-		{
-			name: 'Heists',
-			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true
-		},
-		{
-			name: 'Medical',
-			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true
 		}
 	]);
 	var showingLabels;
